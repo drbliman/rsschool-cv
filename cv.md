@@ -52,12 +52,12 @@ class Ghost {
 
 ### _Projects:_
 
-[Tic-tac-toe game](https://drbliman.github.io/Tic-tac-toe_v0.1/)
-[10X10 game](https://rolling-scopes-school.github.io/drbliman-JSFEPRESCHOOL2023Q2/js30_3.3-random-game/)
-[Brooklyn Public Library](https://rolling-scopes-school.github.io/drbliman-JSFEPRESCHOOL2023Q2/library/)
-[Audio player](https://rolling-scopes-school.github.io/drbliman-JSFEPRESCHOOL2023Q2/js30%231.2-audio-player/)
-[Image gallery](https://rolling-scopes-school.github.io/drbliman-JSFEPRESCHOOL2023Q2/js30_2.2-image-galery/)
-[CSS Meme Slider](https://drbliman.github.io/cssMemeSlider/cssMemeSlider/index.html)
+* [Tic-tac-toe game](https://drbliman.github.io/Tic-tac-toe_v0.1/)
+* [10X10 game](https://rolling-scopes-school.github.io/drbliman-JSFEPRESCHOOL2023Q2/js30_3.3-random-game/)
+* [Brooklyn Public Library](https://rolling-scopes-school.github.io/drbliman-JSFEPRESCHOOL2023Q2/library/)
+* [Audio player](https://rolling-scopes-school.github.io/drbliman-JSFEPRESCHOOL2023Q2/js30%231.2-audio-player/)
+* [Image gallery](https://rolling-scopes-school.github.io/drbliman-JSFEPRESCHOOL2023Q2/js30_2.2-image-galery/)
+* [CSS Meme Slider](https://drbliman.github.io/cssMemeSlider/cssMemeSlider/index.html)
 
 ------
 

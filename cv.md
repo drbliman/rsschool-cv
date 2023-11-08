@@ -60,3 +60,25 @@ class Ghost {
 [CSS Meme Slider](https://drbliman.github.io/cssMemeSlider/cssMemeSlider/index.html)
 
 ------
+
+### _Education:_
+
+Samara University
+
+* 2015-2019: bachelor's degree - physicist
+
+* 2019-2021: master's degree - laser physics and spectroscopy
+
+* 2023 RS Schools Course «JavaScript/Front-end. Stage 0» 
+
+* 2023 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+------
+
+### _Languages:_
+
+* English - A2
+
+* Russian - Native
+
+------
